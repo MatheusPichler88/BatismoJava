@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class ListasNomes {
+public class Principal {
     public static void main(String[] args) {
         List<String> listaNomes = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
